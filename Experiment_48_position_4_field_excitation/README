@@ -1,7 +1,11 @@
 This is the link for download the raw data 
 https://drive.google.com/file/d/1c35FB6UP9WApqOPpuBbGNr2qjjJOcpR_/view?usp=sharing
 ### How running
-0. For get download and discompress the raw data you need to run the scip 
+0. To get download and discompress the raw data run the script 
 donwload_extract_Raw_data.py
-1. For get the baselines:
+1. To get the baselines run the scripts 
+me_analysis.py
+the scripts are save in first_experiment_raw_data_channels/information_baselines_ch0_exp_1.txt
+2. To get the lead field matrix verify the file:
+
 
