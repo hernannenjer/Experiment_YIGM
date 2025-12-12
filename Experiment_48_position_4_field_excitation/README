@@ -6,6 +6,6 @@ donwload_extract_Raw_data.py
 1. To get the baselines run the scripts 
 me_analysis.py
 the scripts are save in first_experiment_raw_data_channels/information_baselines_ch0_exp_1.txt
-2. To get the lead field matrix verify the file:
-
-
+2. To get the lead field matrix and verify the results, run the file:
+Experiments_paper.ipynb
+It is necessary to run in parallel and install cvxpy 
