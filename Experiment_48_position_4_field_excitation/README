@@ -1,2 +1,7 @@
 This is the link for download the raw data 
 https://drive.google.com/file/d/1c35FB6UP9WApqOPpuBbGNr2qjjJOcpR_/view?usp=sharing
+### How running
+0. For get download and discompress the raw data you need to run the scip 
+donwload_extract_Raw_data.py
+1. For get the baselines:
+
