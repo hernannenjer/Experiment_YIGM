@@ -1,1 +1,1 @@
-This has the Code for running the experiment proposed, just need to run as the determined defauld options following the instructure giving in each experiment
+These folder has the scripts and code for obtained the results of the experiment proposed, it is just needed to run with the determined defauld options following the instructure giving in each experiment folder
