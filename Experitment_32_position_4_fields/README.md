@@ -16,7 +16,7 @@ The experiment reconstructs Magnetic particle distributions using 32 sensor posi
 | `parallel_fused_lasso_4.py` | Enables parallel computation for faster reconstruction (used by the notebook). |
 | `plot_function_vista.py` | Helper functions for generating figures and plots. |
 | `Difference_finite_devices_clases.py` | Helper functiond for construct the Gain Matrix. |
-| 'src' | Folder with additional scripts for extract the baselines. |
+| `src` | Folder with additional scripts for extract the baselines. |
 
 
 
@@ -31,14 +31,14 @@ Follow these steps in order to reproduce the results:
     ```bash
     donwload_extract_Raw_data.py
     ```
-    **Expected Output**: Creates a folder (e.g., 'paa_w_50mcg_v_redone/folder_fields') containing the raw signal files for channels 0 and 1, we use channel 0.
+    **Expected Output**: Creates a folder (e.g., `paa_w_50mcg_v_redone/folder_fields`) containing the raw signal files for channels 0 and 1, we use channel 0.
 
 2. **Extract the baselines**
     Processes the raw data to establish baseline signal levels for each sensor channel, use the default parameters.
     ```bash
     baselines_3D.py
     ```
-    **Expected Output**: Generates baseline files in the 'paa_w_50mcg_v_redone/ ', such as information_baselines_ch0_exp_1.txt.
+    **Expected Output**: Generates baseline files in the `paa_w_50mcg_v_redone/`, such as information_baselines_ch0_exp_1.txt.
 
 
 3.  **Reconstruct MNP Distribution (Core Step)**
