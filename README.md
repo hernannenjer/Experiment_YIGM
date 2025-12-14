@@ -1,4 +1,4 @@
-# Magnetic Nanoparticles Imaging via YIG-based Magnetorelaxometry
+# YIGM-based Magnetorelaxometry
 
 This repository contains the scripts to reproduce the results presented in our paper: **"YIG-based magnetorelaxometry: Sensor Design, Fused Lasso Inversion, and Metrological Validation"**.
 
