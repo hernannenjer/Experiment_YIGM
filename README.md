@@ -4,7 +4,7 @@ This repository contains the scripts to reproduce the results presented in our p
 
 Our works introduces a novel **Yttrium-Iron-Garnet (YIG) magnetometer** system for **magnetorelaxometry (MRX)** imaging. The **Fused Lasso regularization** framework isproposed to solve the inverse problem and reconstruct the 3D spatial distribution of magnetic particle concentrations.
 
-## Repository structure:
+## Repository structure:/
 plaintext
 │
 ├── README.md    
