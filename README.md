@@ -8,5 +8,5 @@ Our works introduces a novel **Yttrium-Iron-Garnet (YIG) magnetometer** system f
 │
 ├── README.md    
 ├── Experiment_48_position_4_field_excitation/  # All scripts, data, and results for the 48-sensor (3-face) experimental configuration.
-├── Experiment_32_position_4_fields/            # All scripts, data, and results for the 32-sensor (2-face) experimental configuration.                               # This master documentation file.
+├── Experiment_32_position_4_fields/            # All scripts, data, and results for the 32-sensor (2-face) experimental configuration.                               
 └── .gitattributes                              # Standard Git configuration file.
