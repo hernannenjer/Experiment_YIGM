@@ -1,1 +1,13 @@
-These folder has the scripts and code for obtained the results of the experiment proposed, it is just needed to run with the determined defauld options following the instructure giving in each experiment folder
+# Magnetic Nanoparticles Imaging via YIG-based Magnetorelaxometry
+
+This repository contains the scripts to reproduce the results presented in our paper: **"YIG-based magnetorelaxometry: Sensor Design, Fused Lasso Inversion, and Metrological Validation"**.
+
+Our works introduces a novel **Yttrium-Iron-Garnet (YIG) magnetometer** system for **magnetorelaxometry (MRX)** imaging. The **Fused Lasso regularization** framework isproposed to solve the inverse problem and reconstruct the 3D spatial distribution of magnetic particle concentrations.
+
+## Repository structure
+
+.
+├── Experiment_48_position_4_field_excitation/  # All scripts, data, and results for the 48-sensor (3-face) experimental configuration.
+├── Experiment_32_position_4_fields/            # All scripts, data, and results for the 32-sensor (2-face) experimental configuration.
+├── README.md                                   # This master documentation file.
+└── .gitattributes                              # Standard Git configuration file.
