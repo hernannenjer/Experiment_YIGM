@@ -15,7 +15,7 @@ The experiment reconstructs Magnetic particle distributions using 32 sensor posi
 | `algorithm_solution_FL.py` | Contains the Fused Lasso inverse solver implementation (used by the notebook). |
 | `parallel_fused_lasso_4.py` | Enables parallel computation for faster reconstruction (used by the notebook). |
 | `plot_function_vista.py` | Helper functions for generating figures and plots. |
-| `Difference_finite_devices_clases.py` | Helper functiond for construct the Gain Matrix. |
+| `Difference_finite_devices_clases.py` | Helper functions for construct the Gain Matrix. |
 | `src` | Folder with additional scripts for extract the baselines. |
 
 
