@@ -38,7 +38,7 @@ Follow these steps in order to reproduce the results:
     ```bash
     baselines_3D.py
     ```
-    **Expected Output**: Generates baseline files in the `paa_w_50mcg_v_redone/`, such as information_baselines_ch0_exp_1.txt.
+    **Expected Output**: Generates baseline files in the `paa_w_50mcg_v_redone/information_baselines_ch0_exp_1.txt`.
 
 
 3.  **Reconstruct MNP Distribution (Core Step)**
